@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".SplashScreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        >
+
+        <com.spawn.moviegasm.Utils.DotProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:id="@+id/dotted_progress"
+            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+            app:amount="3"
+            app:durations="200"
+            app:startColor="@color/sky_blue"
+            app:endColor="@color/divider_light_grey"
+            app:animationDirection="right"
+            android:layout_centerVertical="true"
+
+
+            />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,249 @@
+{
+  "version": "1.0",
+  "movie_list": [
+    {
+      "Title": "Tiger Zinda Hai",
+      "Year": "2017",
+      "Rated": "NOT RATED",
+      "Released": "22 Dec 2017",
+      "Runtime": "161 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Ali Abbas Zafar",
+      "Writer": "Neelesh Misra (story), Ali Abbas Zafar (story), Ali Abbas Zafar (screenplay and dialogue), Aditya Chopra (original characters)",
+      "Actors": "Katrina Kaif, Salman Khan, Paresh Rawal, Anupriya Goenka",
+      "Plot": "When a group of Indian and Pakistani nurses are held hostage in Iraq by a terrorist organization, a secret agent is drawn out of hiding to rescue them.",
+      "Language": "Hindi, English",
+      "Country": "India",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzM0ZTg2OTEtNzI4My00NjBlLWFhYTctY2E4NzdiYzY1YWYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "67%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "17,328",
+      "imdbID": "tt5956100",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "&pound;5,560,921",
+      "Production": "Yash Raj Films",
+      "Website": "http://www.yashrajfilms.com/",
+      "Response": "True"
+    },
+    {
+      "Title": "Sui Dhaaga: Made in India",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "28 Sep 2018",
+      "Runtime": "122 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Sharat Katariya",
+      "Writer": "Sharat Katariya",
+      "Actors": "Anushka Sharma, Varun Dhawan, Raghuvir Yadav, Namit Das",
+      "Plot": "A heart-warming story of pride and self-reliance, rooted in the heart of India.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNjg4M2ItZDg4OC00NDIxLWE0NWItYzgyMDU2NDhmNWVmXkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "1,322",
+      "imdbID": "tt7147540",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Yash Raj Films",
+      "Website": "http://en.wikipedia.org/wiki/Sui_Dhaaga",
+      "Response": "True"
+    },
+    {
+      "Title": "Stree",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "31 Aug 2018",
+      "Runtime": "128 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Amar Kaushik",
+      "Writer": "Raj Nidimoru (story and screenplay), Krishna D.K. (story and screenplay), Sumit Arora (dialogue), Pawan Sony (additional story)",
+      "Actors": "Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi, Aparshakti Khurana",
+      "Plot": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk4NGZiMzAtODU1NS00MmQ4LWJiNmQtNWU5ZWU4Y2VmNWI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "7,835",
+      "imdbID": "tt8108202",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Pataakha",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "28 Sep 2018",
+      "Runtime": "134 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Vishal Bhardwaj",
+      "Writer": "Vishal Bhardwaj (written for the screen by), Charan Singh Pathik (based on 'Do Behnein' by)",
+      "Actors": "Sanya Malhotra, Radhika Madan, Sunil Grover, Vijay Raaz",
+      "Plot": "Based on Charan Singh Pathik's short story Do Behnein, Pataakha narrates the story of two feuding sisters who realize the true nature of their relationship only after marriage separates them.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU5MTU0NjctYjQ5Mi00ZWJiLThmNzYtNTk5Y2I4MjMwNDQzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "386",
+      "imdbID": "tt8396128",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "B4U US Inc",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dhadak",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "20 Jul 2018",
+      "Runtime": "138 min",
+      "Genre": "Drama, Romance",
+      "Director": "Shashank Khaitan",
+      "Writer": "Shashank Khaitan (screenplay), Nagraj Manjule (story)",
+      "Actors": "Janhvi Kapoor, Ishaan Khattar, Ashutosh Rana, Aditya Kumar",
+      "Plot": "Set in Rajasthan, this love story explores how the protagonists deal with issues like differences between castes and honor killings.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkxM2FmZTYtN2JlNi00YTNkLWIxMGYtYWE5MmFmOTY1NWE0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "44%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "4.0",
+      "imdbVotes": "4,594",
+      "imdbID": "tt7638344",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Zee Studios",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Venom",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "05 Oct 2018",
+      "Runtime": "112 min",
+      "Genre": "Action, Horror, Sci-Fi",
+      "Director": "Ruben Fleischer",
+      "Writer": "Jeff Pinkner (screenplay by), Scott Rosenberg (screenplay by), Kelly Marcel (screenplay by), Jeff Pinkner (screen story by), Scott Rosenberg (screen story by), Todd McFarlane (Marvel's Venom Character created by), David Michelinie (Marvel's Venom Character created by)",
+      "Actors": "Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze",
+      "Plot": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "35/100"
+        }
+      ],
+      "Metascore": "35",
+      "imdbRating": "7.1",
+      "imdbVotes": "22,950",
+      "imdbID": "tt1270797",
+      "Type": "movie",
+      "DVD": "18 Jun 2013",
+      "BoxOffice": "N/A",
+      "Production": "Vis",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Sanju",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "29 Jun 2018",
+      "Runtime": "155 min",
+      "Genre": "Biography, Drama",
+      "Director": "Rajkumar Hirani",
+      "Writer": "Rajkumar Hirani, Abhijat Joshi",
+      "Actors": "Ranbir Kapoor, Paresh Rawal, Manisha Koirala, Vicky Kaushal",
+      "Plot": "Sanju is a biopic of the controversial life of actor Sanjay Dutt: his film career, jail sentence and personal life.",
+      "Language": "Hindi",
+      "Country": "India",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3NTM1NzMyNF5BMl5BanBnXkFtZTgwOTE4NTgzNTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "50%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "28,621",
+      "imdbID": "tt6452574",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "Rajkumar Hirani Films",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
