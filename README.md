@@ -23,7 +23,7 @@ _The app uses [OMDB API](https://www.omdbapi.com/) for fetching the details of m
 >* [UserService](https://github.com/spawn08/MovieGasm/blob/master/app/src/main/java/com/spawn/moviegasm/Utils/UserService.java) - 
    This class is placed in Utils package inside source. This class is used to initialize the Room database and for retrieval/deletion.   
       
-##Android Concepts Used
+## Android Concepts Used
 * [Room Database](https://developer.android.com/topic/libraries/architecture/room)
 * [Glide Library](https://github.com/bumptech/glide)
 * [Retrofit](https://square.github.io/retrofit/) 
