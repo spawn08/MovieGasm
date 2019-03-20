@@ -10,7 +10,7 @@ The app also dynamically loads the contents of movies from server.**
 
 _The app uses [OMDB API](https://www.omdbapi.com/) for fetching the details of movies. The networking calls are made using Retrofit._
 
-#### Important Classes in the App
+## Important Classes in the App
 
 >* [BaseMovieActivity](https://github.com/spawn08/MovieGasm/blob/master/app/src/main/java/com/spawn/moviegasm/BaseMovieActivity.java) - 
     This is the base activity of the application. The default movie UI is shown in this activity. You can dynamically change the contents of the UI by changing the json file from server.
