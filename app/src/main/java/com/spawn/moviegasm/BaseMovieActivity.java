@@ -4,7 +4,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
-import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.util.Log;
@@ -27,8 +26,6 @@ public class BaseMovieActivity extends AppCompatActivity implements View.OnClick
     public static final String BASE_URL = "YOUR-API-URL-FOR-FILE";
     private ActivityBaseMovieBinding activityBaseMovieBinding;
     private Context context;
-    public MovieListAdapters movieListAdapters;
-    Handler handler = new Handler();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
